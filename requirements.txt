@@ -1,0 +1,8 @@
+openai
+matplotlib
+numpy
+websockets
+gradio_client
+faster-whisper
+pyttsx3
+reachy-mini
